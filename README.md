@@ -52,5 +52,5 @@ http://127.0.0.1:8000/
 ## Author
 
 **Shashwat Gupta**  
-Developed as part of an AI/ML internship project, showcasing applied skills in NLP and API development.  
+Developed as part of my basic project, showcasing applied skills in NLP and API development.  
 GitHub: `https://github.com/shashwat212` [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fshashwat212")
